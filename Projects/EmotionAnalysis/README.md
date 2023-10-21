@@ -1,1 +1,0 @@
-### **Emotional Analysis Computer Vision**
